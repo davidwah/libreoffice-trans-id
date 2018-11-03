@@ -55,6 +55,8 @@ grid = kisi
 H
 home = beranda
 header = tajuk
+hyperlink = pranala
+hardisk = diska
 
 I
 image = citra
