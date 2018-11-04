@@ -2,6 +2,7 @@ A
 advanced = lanjut
 align = perataan
 author = pengarang
+arrow key = tombol panah
 
 
 B
@@ -12,6 +13,8 @@ bullet = bulatan
 C
 cancel = batal
 cell = sel
+check box = kotak centang
+chart  = bagan
 close = tutup
 column = kolom
 content = konten
