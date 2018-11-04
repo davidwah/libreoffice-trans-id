@@ -46,6 +46,7 @@ error = galat
 event = acara
 export = ekspor
 extension = ekstensi
+entry = entri
 
 F
 field = ruas
@@ -106,7 +107,7 @@ pause = jeda (kb) menjeda (kk)
 pop up = ?
 preview = pratinjau
 printer = pencetak
-path = ?
+path = jalur
 
 Q
 
