@@ -43,6 +43,7 @@ embed = tanamkan
 enable = nyalakan
 enabled = dinyalakan
 error = galat
+event = acara
 export = ekspor
 extension = ekstensi
 
@@ -51,6 +52,7 @@ field = ruas
 file = berkas
 footer = kaki
 format = format
+floating point = titik apung
 
 G
 grid = kisi
@@ -76,13 +78,17 @@ K
 L
 library = pustaka
 libraries = pustaka
+list entry = daftar masukan
 
 M
 margin = batasan
+main = utama
 mean = rerata
 mouse = tetikus
+menu = menu
 
 N
+navigator = navigator
 null = nol
 
 
@@ -93,12 +99,14 @@ on the fly = dengan cepat
 option = opsi, pilihan
 output = keluaran
 overwrite = menimpa
+overview = ikhtisar
 
 P
 pause = jeda (kb) menjeda (kk)
 pop up = ?
 preview = pratinjau
 printer = pencetak
+path = ?
 
 Q
 
@@ -130,6 +138,7 @@ thumbnail = thumbnail
 toogle = jungkit
 toolbar = bilah alat
 tools = perkakas
+type = tipe
 
 U
 update = pemutakhiran (kb), mutakhirkan (kk)
@@ -153,3 +162,4 @@ Y
 
 
 Z
+ZIP = kode pos
